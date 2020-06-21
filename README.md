@@ -1,4 +1,5 @@
 # Business Analytics: Marketing and Decisions 
+
 ## 1. Bank Analytics
 
  Using banks.csv, run a logistic regression that models the status of a bank (strong or
